@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"   
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">  
+<!--   
+    namespace：必须与对应的接口mapper.java全类名一致  
+    id:必须与对应接口mapper.java的某个对应的方法名一致  
+ --> 
+<mapper namespace="com.weisi.Client.mapper.user.UserMapper">
+  	<resultMap id="BaseResultMap" type="ClientUserInfo" >
+	    <id column="ID" property="id" jdbcType="BIGINT" />
+	    <result column="USER_NAME" property="userName" jdbcType="VARCHAR" />
+	    <result column="POSSWORD" property="password" jdbcType="VARCHAR" />
+	    <result column="PROJECT_NAME" property="projectName" jdbcType="VARCHAR" />
+	    <result column="CREATE_TIME" property="createTime" jdbcType="DATE" />
+	    <result column="IS_ENABLED" property="isEnable" jdbcType="TINYINT" />
+  	</resultMap>
+
+	<insert id="save" parameterType="ClientUserInfo">
+		insert into client_user_info(USER_NAME, POSSWORD, PROJECT_NAME,CREATE_TIME,IS_ENABLED) 
+		values (#{userName},#{password},#{projectName},#{createTime},#{isEnable}) 
+	</insert>
+	<update id="update" parameterType="ClientUserInfo">
+		update client_user_info set USER_NAME=#{userName},POSSWORD=#{password} ,
+		PROJECT_NAME=#{projectName},CREATE_TIME=#{createTime} ,IS_ENABLED=#{isEnable} 
+		where id=#{id}  
+	</update>
+	<delete id="delete" parameterType="int">
+		delete from client_user_info where id=#{id}
+	</delete>
+	<select id="findAll"  resultMap="BaseResultMap" >
+		select ID, USER_NAME, POSSWORD, PROJECT_NAME,CREATE_TIME,IS_ENABLED from client_user_info
+	</select>
+	<select id="findById" parameterType="int"  resultMap="BaseResultMap" >
+		select ID, USER_NAME, POSSWORD, PROJECT_NAME,CREATE_TIME,IS_ENABLED from client_user_info where id=#{id}
+	</select>
+	<select id="findByUserNamePwd" resultMap="BaseResultMap" >
+		select ID, USER_NAME, POSSWORD, PROJECT_NAME,CREATE_TIME,IS_ENABLED 
+		from client_user_info where USER_NAME=#{userName} and POSSWORD=#{password} 
+	</select>
+</mapper>
+ 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mvc="http://www.springframework.org/schema/mvc" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx" 
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+       http://www.springframework.org/schema/beans/spring-beans.xsd 
+       http://www.springframework.org/schema/context 
+       http://www.springframework.org/schema/context/spring-context.xsd 
+       http://www.springframework.org/schema/aop 
+       http://www.springframework.org/schema/aop/spring-tx.xsd
+       http://www.springframework.org/schema/tx 
+       http://www.springframework.org/schema/tx/spring-aop.xsd
+   	   http://www.springframework.org/schema/mvc
+       http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+	<!-- 处理器映射器 -->
+	<context:component-scan base-package="com.weisi.Client.controller"/>
+	
+	<!-- 注解方式的适配器 -->
+	<!-- Spring3.1版本之前使用org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter -->
+	<!-- <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter"/> -->
+	<!-- 注解方式的映射器 -->
+	<!-- Spring3.1版本之前使用org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping -->
+	<!-- <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/> -->
+	<!-- 也可以使用下面的方式代替上面两者的注册 -->
+	<!-- 使用此种方式会加载很多参数绑定方法，比如json的转换解析方法等,实际开发过程中使用 mvc:annotation-driven-->
+	<mvc:annotation-driven></mvc:annotation-driven>
+	
+	<!-- 视图解析器 -->
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="prefix" value="/WEB-INF/jsp/"></property>
+		<property name="suffix" value=".jsp"></property>
+	</bean>
+
+
+	<!-- 默认访问跳转到登录页面(即定义无需Controller的url<->view直接映射) -->  
+    <mvc:view-controller path="/" view-name="demo"/>
+    
+	<!-- 访问静态资源 -->
+	<mvc:default-servlet-handler />
+
+	<!-- 支持上传文件 -->
+  	<!--加入multipart 的解析器,这个必须配置，一会在controller里抓取上传文件时要用。否则会报错。-->
+    <bean id="multipartResolver"  class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <!-- 上传最大文件100000M -->
+        <property name="maxUploadSize" value="102400000000"></property>
+        <property name="defaultEncoding" value="utf-8"/><!--属性：编码-->
+    </bean>
+
+	
+	  <!-- RESTFul API 解析返回JSON -->
+	  <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+		 <property name="messageConverters">
+		   <list >
+		    <ref bean="mappingJacksonHttpMessageConverter" />
+		   </list>
+		 </property>
+	 </bean>
+	 <!-- RESTFul API 解析返回JSON-格式设置 -->
+	 <bean id="mappingJacksonHttpMessageConverter"
+	  class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+		  <property name="supportedMediaTypes">
+		   <list>
+		    <value>text/html;charset=UTF-8</value>
+		   </list>
+		  </property>
+	 </bean>  
+
+</beans>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://java.sun.com/xml/ns/javaee" 
+		 xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" 
+		 id="WebApp_ID" 
+		 version="3.0">	
+	
+    <!-- 加载Spring容器 -->
+    <context-param>
+  	     <param-name>contextConfigLocation</param-name>
+  	     <param-value>classpath:spring/applicationContext*.xml</param-value>
+    </context-param>
+    <listener>
+  	     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>	
+	 
+	<!-- 防止Spring内存溢出监听器 -->  
+    <listener>  
+        <listener-class>org.springframework.web.util.IntrospectorCleanupListener</listener-class>  
+    </listener> 
+    
+	<!-- 配置spring mvc前端控制器 -->
+	<servlet>
+		<servlet-name>springmvc</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<!-- contextConfigLocation配置spingmvc加载的配置文件（配置处理器映射器、适配器、处理器等等） -->
+		<!-- 如果不配置默认加载的是web-inf/servlet名称-servlet.xml -->
+		<init-param>
+			<param-name>contextConfigLocation</param-name>
+			<param-value>classpath:spring/spring-mvc.xml</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>  
+	</servlet>
+
+	
+	<servlet-mapping>
+		<servlet-name>springmvc</servlet-name>
+		<!-- 
+		第一种：*.action  访问以.action结尾，由DispatcherServlet进行解析
+		第二种：/  所有访问都由DIspatcherServlet进行解析，对于静态的文件的解析，需要
+		              配置不让DispatcherServlet进行解析，使用此种方法，可以实现Restful风格的url
+		第三种：/*,这种配置不对。使用这种配置，最终要转发到一个jsp页面的时候，仍然会由DispatcherServlet解析jsp，不能根据jsp页面找到handler，会报错
+		 -->
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	
+		<!-- 字符编码过滤 -->
+	<filter>
+		<filter-name>encodingFilter</filter-name>
+		<filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+		<init-param>
+			<param-name>forceEncoding</param-name>
+			<param-value>true</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>encodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<!-- JNDI lookup for name [spring.liveBeansView.mbeanDomain] 
+	threw NamingException with message: 
+	Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. 
+	Unable to find [spring.liveBeansView.mbeanDomain]..
+	 Returning null. -->
+	<context-param>
+		<param-name>spring.profiles.active</param-name>
+		<param-value>dev</param-value>
+	</context-param>
+	<context-param>
+		<param-name>spring.profiles.default</param-name>
+		<param-value>dev</param-value>
+	</context-param>
+	<context-param>
+		<param-name>spring.liveBeansView.mbeanDomain</param-name>
+		<param-value>dev</param-value>
+	</context-param>	
+	
+	<!-- RESTFul API start ******** -->
+	<filter>
+		<filter-name>HiddenHttpMethodFilter</filter-name>
+		<filter-class>org.springframework.web.filter.HiddenHttpMethodFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>HiddenHttpMethodFilter</filter-name>
+		<servlet-name>springmvc</servlet-name>
+	</filter-mapping>
+	<!-- 解决HTTP PUT请求Spring无法获取请求参数的问题 -->
+	<filter>  
+        <filter-name>httpPutFormFilter</filter-name>  
+        <filter-class>org.springframework.web.filter.HttpPutFormContentFilter</filter-class>  
+    </filter>  
+    <filter-mapping>  
+        <filter-name>httpPutFormFilter</filter-name>  
+        <servlet-name>springmvc</servlet-name>  
+    </filter-mapping>  
+	<!-- RESTFul API end ******** -->
+	
+	
+</web-app>
