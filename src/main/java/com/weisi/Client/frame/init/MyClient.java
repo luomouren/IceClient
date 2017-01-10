@@ -4,6 +4,10 @@ import com.weisi.Server.serverIce.MyServicePrx;
 import com.weisi.Server.serverIce.MyServicePrxHelper;
 
 public class MyClient {
+    /**
+     * 简单启动客户端
+     * @param args
+     */
     public static void main(String[] args) {
       int status=0;
       Ice.Communicator ic =null;

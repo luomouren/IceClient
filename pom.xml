@@ -286,6 +286,20 @@
 		</dependency>
 		<!-- pojo返回json 20161229 end *************-->
 		
+		<!-- com.zeroc/ice start************-->
+		<dependency>
+		    <groupId>com.zeroc</groupId>
+		    <artifactId>ice</artifactId>
+		    <version>3.6.2</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.zeroc</groupId>
+		    <artifactId>icebox</artifactId>
+		    <version>3.6.2</version>
+		</dependency>
+		<!-- com.zeroc/ice end************-->
+		
+		
    </dependencies>
 
   
