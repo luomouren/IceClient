@@ -25,11 +25,14 @@ public class SwitcherGridClient {
       Ice.Communicator ic =null;
       try {
         //初始化通信器
-        String reg ="--Ice.Default.Locator=IceGrid/Locator:tcp -h localhost -p 4061";
+        String reg ="--Ice.Default.Locator=IceGrid/Locator:tcp -h 60.205.168.218 -p 4061";
+        //String reg ="--Ice.Default.Locator=IceGrid/Locator:tcp -h 192.168.1.109 -p 20000";
         String[] parms = new String[]{reg};
         ic=Ice.Util.initialize(parms);
         //传入远程服务单元的名称、网络协议、Ip以及端口，构造一个Proxy对象
         Ice.ObjectPrx base = ic.stringToProxy("SwitchService");
+        //Ice.ObjectPrx base = ic.stringToProxy("SwitchServer");
+        
         //通过checkedCast向下转型，获取MyService接口的远程，并同时监测根据传入的名称，
         //获取服务单元是否OnlineBook的代理接口，如果不是则返回null对象
         ISwitchPrx switchPushPrx = ISwitchPrxHelper.checkedCast(base);
