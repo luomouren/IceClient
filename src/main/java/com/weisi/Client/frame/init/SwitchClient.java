@@ -1,5 +1,8 @@
 package com.weisi.Client.frame.init;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import org.apache.log4j.Logger;
 
 import com.weisi.Client.service.ice.impl.SwitchCallbackI;
@@ -14,6 +17,15 @@ public class SwitchClient {
     private static Logger LOGGER = Logger.getLogger(SwitchClient.class);
     
     public static void main(String[] args) {
+      /*//当前时间
+      SimpleDateFormat sdf =new SimpleDateFormat("yyyy-MM--dd hh:mm:ss");
+      System.out.println("重连前 当前时间为:"+sdf.format(new Date()));
+      //第一次连接服务器，若此时服务器宕了，则进行重连
+      try{
+        Thread.currentThread().sleep(10000);//毫秒 
+        System.out.println("睡眠后时间为:"+sdf.format(new Date()));
+      }catch(Exception e){
+      }*/
       mainConnector();
     }
     
@@ -71,8 +83,16 @@ public class SwitchClient {
       
       //第一次连接服务器，若此时服务器宕了，则进行重连
       if(!isConnect){
-        connectIceServer(ic,endpoints,sn,netMode,netStrength,category,clientName);
+        try{
+          //多少毫秒后重连
+          Thread.currentThread().sleep(10000);//毫秒 
+          connectIceServer(ic,endpoints,sn,netMode,netStrength,category,clientName);
+        }catch(Exception e){
+          LOGGER.error("连接服务器 Exception,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
+        }
       }
+      
+       
       
       
       if(switchPushPrx==null){
@@ -100,14 +120,22 @@ public class SwitchClient {
             switchPushPrx.ice_isBatchDatagram();
             // 使用异步的方式
             switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength, new Callback_ISwitch_heartbeat() {
+               
                 @Override
                 public void exception(LocalException __ex) {
                   //服务端停掉后，心跳异常
                   LOGGER.error("心跳异常 LocalException,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+__ex);
                   //心跳过程中出现连接失败，则从新连接服务器，直到连上服务器
-                  Ice.Communicator ic =null;
-                  connectIceServer(ic,endpoints,sn,netMode,netStrength,category,clientName);
+                  try{
+                    //多少毫秒后重连
+                    Thread.currentThread().sleep(10000);//毫秒 
+                    Ice.Communicator ic =null;
+                    connectIceServer(ic,endpoints,sn,netMode,netStrength,category,clientName);
+                  }catch(Exception e){
+                    LOGGER.error("连接服务器 Exception,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
+                  }
                 }
+                
                 @Override
                 public void response(boolean arg) {
                     LOGGER.info("心跳结果---heartbeat result = " + arg);
@@ -122,8 +150,10 @@ public class SwitchClient {
                 public void exception(UserException ex) {
                   LOGGER.error("心跳异常 UserException,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+ex);
                 }
+                
             });
             LOGGER.info("客户端心跳结束---SwitchClient is end heartbeat.\n");
+            //休息多少毫秒后发送心跳
             Thread.sleep(10000);
           }
       } catch (Exception e) {
