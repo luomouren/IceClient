@@ -1,8 +1,5 @@
 package com.weisi.Client.frame.init;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import org.apache.log4j.Logger;
 
 import com.weisi.Client.service.ice.impl.SwitchCallbackI;
