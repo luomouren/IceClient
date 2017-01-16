@@ -38,6 +38,13 @@ module switcher
 		bool heartbeat(Ice::Identity id, string sn, int netMode, int netStrength) throws SwitchException;
 		
 		/**
+		 * 向sn客户端发送消息
+		 * @param sn 设备串号
+		 * @param msg 字符串
+		 */
+		bool sendMsgToOtherClient(string otherSn, string msg) throws SwitchException;
+		
+		/**
 		 * 设备回调
 		 * @param byteSeq 二进制数组
 		 * @return true/false

@@ -48,6 +48,31 @@ public class SwitchClient {
         System.exit(status);
     }
     
+    
+    /**
+     * ice自带保持心跳
+     * @param con
+     */
+    private static void holdHeartbeat(Ice.Connection con,String sn) {
+        con.setCallback(new Ice.ConnectionCallback() {
+            @Override
+            public void heartbeat(Ice.Connection c) {
+              LOGGER.info("sn:" + sn + " client heartbeat....");
+            }
+
+            @Override
+            public void closed(Ice.Connection c) {
+              LOGGER.info("sn:" + sn + " " + "closed....");
+            }
+        });
+
+        // 每30/2 s向对方做心跳
+        // 客户端向服务端做心跳 服务端打印服务端的con.setCallback(new Ice.ConnectionCallback()
+        con.setACM(new Ice.IntOptional(10), new Ice.Optional<Ice.ACMClose>(Ice.ACMClose.CloseOff),
+                new Ice.Optional<Ice.ACMHeartbeat>(Ice.ACMHeartbeat.HeartbeatAlways));
+    }
+    
+    
     /**
      * @param ic 通信器
      * @param endpoints 服务器连接地址
@@ -89,9 +114,6 @@ public class SwitchClient {
         }
       }
       
-       
-      
-      
       if(switchPushPrx==null){
         throw new Error("Invalid proxy");
       }
@@ -111,6 +133,7 @@ public class SwitchClient {
               + switchPushPrx.ice_getConnection().getEndpoint()._toString());
       
       try {
+       
         while (true) {
             LOGGER.info("客户端开启心跳---SwitchClient is begin heartbeat.");
             
@@ -150,13 +173,22 @@ public class SwitchClient {
                 
             });
             LOGGER.info("客户端心跳结束---SwitchClient is end heartbeat.\n");
+            
             //休息多少毫秒后发送心跳
             Thread.sleep(10000);
           }
+        
+        
+        // 可以使用以上的while(true) Thread.sleep(HEARTBEAT_TIME);的方式定时请求保持tcp连接的心跳，这个方式是为了每次心跳都传参
+        // 也可以使用一下的方式，使用ice自带的功能保持tcp的连接心跳，无法每次心跳传参
+        //holdHeartbeat(switchPushPrx.ice_getConnection(),sn);
+        
       } catch (Exception e) {
         e.printStackTrace();
         LOGGER.error("endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
       }
+      
+      //switchPushPrx.begin_sendMsgToOtherClient("0481deb6494848488048578316516699", "*****来自客户端1发送********");
       
     }
     
