@@ -297,6 +297,11 @@
 		    <artifactId>icebox</artifactId>
 		    <version>3.6.2</version>
 		</dependency>
+		<dependency>
+		    <groupId>com.zeroc</groupId>
+		    <artifactId>glacier2</artifactId>
+		    <version>3.6.2</version>
+		</dependency>
 		<!-- com.zeroc/ice end************-->
 		
 		

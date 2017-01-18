@@ -34,8 +34,9 @@ module switcher
 		 * @param sn 设备串号
 		 * @param netMode 网络接入方式 0:没有 1:3G 2:4G 3:以太网 4：wifi 5：2G
 		 * @param netStrength 网络信号强度
+		 * @param time 请求时间
 		 */
-		bool heartbeat(Ice::Identity id, string sn, int netMode, int netStrength) throws SwitchException;
+		bool heartbeat(Ice::Identity id, string sn, int netMode, int netStrength,long time) throws SwitchException;
 		
 		/**
 		 * 向sn客户端发送消息

@@ -107,8 +107,10 @@ public class SwitcherGridClient {
             LOGGER.info("客户端开启心跳---SwitchClient is begin heartbeat.");
             
             switchPushPrx.ice_isBatchDatagram();
+            //心跳时,获取当前时间戳
+            long time = System.currentTimeMillis();//毫秒级别，13位
             // 使用异步的方式
-            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength, new Callback_ISwitch_heartbeat() {
+            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength,time, new Callback_ISwitch_heartbeat() {
                
                 @Override
                 public void exception(LocalException __ex) {

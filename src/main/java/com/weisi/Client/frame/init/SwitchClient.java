@@ -1,5 +1,8 @@
 package com.weisi.Client.frame.init;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import org.apache.log4j.Logger;
 
 import com.weisi.Client.service.ice.impl.SwitchCallbackI;
@@ -21,6 +24,8 @@ public class SwitchClient {
       try{
         Thread.currentThread().sleep(10000);//毫秒 
         System.out.println("睡眠后时间为:"+sdf.format(new Date()));
+        long s = System.currentTimeMillis();
+        System.out.println(s);
       }catch(Exception e){
       }*/
       mainConnector();
@@ -33,6 +38,7 @@ public class SwitchClient {
     public static void mainConnector(){
         int status=0;
         Ice.Communicator ic =null;
+        long time = System.currentTimeMillis();//毫秒级别，13位
         try {
           connectIceServer(ic, "SwitchServer:default -p 20000",   
               "0481deb6494848488048578316516694", 1,  2, "","SwitchClient");
@@ -83,7 +89,7 @@ public class SwitchClient {
      * @param clientName 客户端名称
      */
     public static void  connectIceServer(Ice.Communicator ic,String endpoints,   
-        String sn, int netMode, int netStrength, 
+        String sn, int netMode, int netStrength,
         String category,String clientName){
       //初始化通信器
       ic=Ice.Util.initialize();
@@ -108,6 +114,7 @@ public class SwitchClient {
         try{
           //多少毫秒后重连
           Thread.currentThread().sleep(10000);//毫秒 
+          //重新传当前时间戳
           connectIceServer(ic,endpoints,sn,netMode,netStrength,category,clientName);
         }catch(Exception e){
           LOGGER.error("连接服务器 Exception,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
@@ -131,15 +138,19 @@ public class SwitchClient {
       
       LOGGER.info("客户端启动成功" + "getEndpoint = "
               + switchPushPrx.ice_getConnection().getEndpoint()._toString());
-      
+      System.out.println("+++++++++++++++++1111++++++++++++++++++++++");
+      switchPushPrx.begin_sendMsgToOtherClient("0481deb6494848488048578316516699", "*****来自客户端1发送********");
+      System.out.println("+++++++++++++++++2222++++++++++++++++++++++");
       try {
        
         while (true) {
             LOGGER.info("客户端开启心跳---SwitchClient is begin heartbeat.");
             
             switchPushPrx.ice_isBatchDatagram();
+            //心跳时,获取当前时间戳
+            long time = System.currentTimeMillis();//毫秒级别，13位
             // 使用异步的方式
-            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength, new Callback_ISwitch_heartbeat() {
+            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength,time, new Callback_ISwitch_heartbeat() {
                
                 @Override
                 public void exception(LocalException __ex) {
@@ -187,8 +198,6 @@ public class SwitchClient {
         e.printStackTrace();
         LOGGER.error("endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
       }
-      
-      //switchPushPrx.begin_sendMsgToOtherClient("0481deb6494848488048578316516699", "*****来自客户端1发送********");
       
     }
     
