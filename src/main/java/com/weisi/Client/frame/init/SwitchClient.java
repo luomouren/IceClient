@@ -10,7 +10,9 @@ import com.weisi.Server.switcher.Callback_ISwitch_heartbeat;
 import com.weisi.Server.switcher.ISwitchPrx;
 import com.weisi.Server.switcher.ISwitchPrxHelper;
 
+import Ice.Connection;
 import Ice.LocalException;
+import Ice.TCPConnectionInfo;
 import Ice.UserException;
 
 public class SwitchClient {
@@ -142,8 +144,36 @@ public class SwitchClient {
       switchPushPrx.begin_sendMsgToOtherClient("0481deb6494848488048578316516699", "*****来自客户端1发送********");
       System.out.println("+++++++++++++++++2222++++++++++++++++++++++");
       try {
-       
+        String ip = ""; // 缓存当前ip
+        int port = 0; // 缓存当前端口
+        
         while (true) {
+            // ip或端口不一样时，重置适配器（服务端重启的情况）
+            if (switchPushPrx == null) {
+                break;
+            }
+            
+            Connection connection = null;
+            String localIp = null;
+            int localPort = 0;
+            try {
+                connection = switchPushPrx.ice_getConnection();
+                TCPConnectionInfo connectionInfo = (TCPConnectionInfo) connection.getInfo();
+                localIp = connectionInfo.localAddress;
+                localPort = connectionInfo.localPort;
+                LOGGER.info("localIp:" + localIp + "; localPort:" + localPort);
+                if (!ip.equals(localIp) || port != localPort) {
+                    ip = localIp;
+                    port = localPort;
+                    LOGGER.info("ip or port is change. set adapter.");
+                    connection.setAdapter(adapter);
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+          
+          
+          
             LOGGER.info("客户端开启心跳---SwitchClient is begin heartbeat.");
             
             switchPushPrx.ice_isBatchDatagram();

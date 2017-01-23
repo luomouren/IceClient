@@ -1,0 +1,9 @@
+#使用管理客户端部署应用服务程序时，如果使用ssl连接，但不提供证书，做如下调整：
+#MyService.Proxy=MyService:tcp -h localhost -p 4061:ssl -h localhost -p 4062
+MyService.Proxy=MyService:ssl -h 127.0.0.1 -p 4062
+
+
+Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory
+IceSSL.DefaultDir=src/main/resources/certs2
+IceSSL.Keystore=client.jks
+IceSSL.Password=password
