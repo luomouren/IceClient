@@ -15,6 +15,10 @@ import Ice.LocalException;
 import Ice.TCPConnectionInfo;
 import Ice.UserException;
 
+/**
+ * 服务端为IceBox方式启动
+ * @author Amy
+ */
 public class SwitchClient {
     private static Logger LOGGER = Logger.getLogger(SwitchClient.class);
     

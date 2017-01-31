@@ -10,6 +10,12 @@ import com.weisi.Server.switcher.ISwitchPrxHelper;
 import Ice.LocalException;
 import Ice.UserException;
 
+/**
+ * 服务端为IceGrid方式启动
+ * 服务端配置了IceSSL加密
+ * 客户端与服务端保持定时心跳
+ * @author Amy
+ */
 public class SwitcherGridClient {
     private static Logger LOGGER = Logger.getLogger(SwitchClient.class);
     public static String sn = "0481deb6494848488048578316516694";
@@ -27,7 +33,7 @@ public class SwitcherGridClient {
         int status=0;
         Ice.Communicator ic =null;
         try {
-          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:tcp -h 192.168.1.109 -p 4061", "SwitchService",  
+          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062", "SwitchService",  
               "0481deb6494848488048578316516694", 1,  2, "","SwitchClient");
         } catch (Exception e) {
           e.printStackTrace();
@@ -55,7 +61,12 @@ public class SwitcherGridClient {
         String sn, int netMode, int netStrength, 
         String category,String clientName){
       //初始化通信器
-      String[] parms = new String[]{endpoints};
+      String[] parms = new String[]{endpoints,
+          "--Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory",
+          "--IceSSL.DefaultDir=src/main/resources/certs1",
+          "--IceSSL.Keystore=client.jks",
+          "--IceSSL.Password=password"};
+          
       ic=Ice.Util.initialize(parms);
       //传入远程服务单元的名称、网络协议、Ip以及端口，构造一个Proxy对象
       Ice.ObjectPrx base = ic.stringToProxy(serviceName);

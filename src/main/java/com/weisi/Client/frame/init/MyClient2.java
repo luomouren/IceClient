@@ -3,18 +3,25 @@ package com.weisi.Client.frame.init;
 import com.weisi.Server.serverIce.MyServicePrx;
 import com.weisi.Server.serverIce.MyServicePrxHelper;
 
+/**
+ * 简单启动客户端
+ * 服务端为IceGrid方式启动
+ * 服务端配置了IceSSL加密
+ */
 public class MyClient2 {
-    /**
-     * 简单启动客户端
-     * @param args
-     */
+    
     public static void main(String[] args) {
       int status=0;
       Ice.Communicator ic =null;
       try {
         //初始化通信器
-        String reg ="--Ice.Default.Locator=IceGrid/Locator:tcp -h localhost -p 4061";
-        String[] parms = new String[]{reg};
+        //String reg ="--Ice.Default.Locator=IceGrid/Locator:tcp -h localhost -p 4061";
+        String reg ="--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062";
+        String[] parms = new String[]{reg,"--Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory",
+            "--IceSSL.DefaultDir=src/main/resources/certs1",
+            "--IceSSL.Keystore=client.jks",
+            "--IceSSL.Password=password"};
+        
         ic=Ice.Util.initialize(parms);
         //传入远程服务单元的名称、网络协议、Ip以及端口，构造一个Proxy对象
         Ice.ObjectPrx base = ic.stringToProxy("MyService");
