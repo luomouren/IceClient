@@ -33,7 +33,7 @@ public class SwitcherGridClient {
         int status=0;
         Ice.Communicator ic =null;
         try {
-          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062", "SwitchService",  
+          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.1.119 -p 4062", "SwitchService",  
               "0481deb6494848488048578316516694", 1,  2, "","SwitchClient");
         } catch (Exception e) {
           e.printStackTrace();

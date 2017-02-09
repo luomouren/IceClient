@@ -46,7 +46,7 @@ public class SwitchClient {
         Ice.Communicator ic =null;
         long time = System.currentTimeMillis();//毫秒级别，13位
         try {
-          connectIceServer(ic, "SwitchServer:default -p 20000",   
+          connectIceServer(ic, "MyService:ssl -h 192.168.5.1 -p 4062",   
               "0481deb6494848488048578316516694", 1,  2, "","SwitchClient");
         } catch (Exception e) {
           e.printStackTrace();
@@ -98,7 +98,11 @@ public class SwitchClient {
         String sn, int netMode, int netStrength,
         String category,String clientName){
       //初始化通信器
-      ic=Ice.Util.initialize();
+      ic=Ice.Util.initialize(new String[]{
+          "--Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory",
+          "--IceSSL.DefaultDir=src/main/resources/certs1",
+          "--IceSSL.Keystore=client.jks",
+          "--IceSSL.Password=password"});
       //传入远程服务单元的名称、网络协议、Ip以及端口，构造一个Proxy对象
       Ice.ObjectPrx base = ic.stringToProxy(endpoints);
       
