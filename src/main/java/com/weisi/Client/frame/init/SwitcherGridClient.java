@@ -33,8 +33,8 @@ public class SwitcherGridClient {
         int status=0;
         Ice.Communicator ic =null;
         try {
-          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.1.119 -p 4062", "SwitchService",  
-              "0481deb6494848488048578316516694", 1,  2, "","SwitchClient");
+          connectIceServer(ic, "--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062", "SwitchService",  
+              "0481deb6494848488048578316516694", "","SwitchClient");
         } catch (Exception e) {
           e.printStackTrace();
           LOGGER.error(e);
@@ -52,18 +52,15 @@ public class SwitcherGridClient {
      * @param endpoints 服务器连接地址
      * @param serviceName  服务名称
      * @param sn 设备串号
-     * @param netMode 网络接入方式 0:没有 1:3G 2:4G 3:以太网 4：wifi 5：2G
-     * @param netStrength 网络信号强度
      * @param category 客户端种类
      * @param clientName 客户端名称
      */
     public static void  connectIceServer(Ice.Communicator ic,String endpoints, String serviceName,
-        String sn, int netMode, int netStrength, 
-        String category,String clientName){
+        String sn,String category,String clientName){
       //初始化通信器
       String[] parms = new String[]{endpoints,
           "--Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory",
-          "--IceSSL.DefaultDir=src/main/resources/certs1",
+          "--IceSSL.DefaultDir=src/main/resources/certs5.1",
           "--IceSSL.Keystore=client.jks",
           "--IceSSL.Password=password"};
           
@@ -89,7 +86,7 @@ public class SwitcherGridClient {
         try{
           //多少毫秒后重连
           Thread.currentThread().sleep(10000);//毫秒 
-          connectIceServer(ic,endpoints,serviceName,sn,netMode,netStrength,category,clientName);
+          connectIceServer(ic,endpoints,serviceName,sn,category,clientName);
         }catch(Exception e){
           LOGGER.error("连接服务器 Exception,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
         }
@@ -121,7 +118,7 @@ public class SwitcherGridClient {
             //心跳时,获取当前时间戳
             long time = System.currentTimeMillis();//毫秒级别，13位
             // 使用异步的方式
-            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength,time, new Callback_ISwitch_heartbeat() {
+            switchPushPrx.begin_heartbeat(id, sn,time, new Callback_ISwitch_heartbeat() {
                
                 @Override
                 public void exception(LocalException __ex) {
@@ -132,7 +129,7 @@ public class SwitcherGridClient {
                     //多少毫秒后重连
                     Thread.currentThread().sleep(10000);//毫秒 
                     Ice.Communicator ic =null;
-                    connectIceServer(ic,endpoints,serviceName,sn,netMode,netStrength,category,clientName);
+                    connectIceServer(ic,endpoints,serviceName,sn,category,clientName);
                   }catch(Exception e){
                     LOGGER.error("连接服务器 Exception,endpoints:"+endpoints+"  ,客户端名称:"+clientName+"  ,设备串号:"+sn+"  ,详细错误为:"+e);
                   }

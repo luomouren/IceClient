@@ -188,7 +188,7 @@ public class SwitchClient {
             //心跳时,获取当前时间戳
             long time = System.currentTimeMillis();//毫秒级别，13位
             // 使用异步的方式
-            switchPushPrx.begin_heartbeat(id, sn, netMode, netStrength,time, new Callback_ISwitch_heartbeat() {
+            switchPushPrx.begin_heartbeat(id, sn,time, new Callback_ISwitch_heartbeat() {
                
                 @Override
                 public void exception(LocalException __ex) {
