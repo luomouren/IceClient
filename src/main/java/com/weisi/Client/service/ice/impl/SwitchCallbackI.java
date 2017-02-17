@@ -32,4 +32,11 @@ public class SwitchCallbackI extends _ISwitchCallbackDisp {
 		return true;
 	}
 
+	@Override
+	public boolean callWriteBaseMeter(String meterNo, String moneyAmount, Current __current) throws SwitchException {
+		// 客户端打印会打印以下信息
+		LOGGER.info("微信公众号充值成功,表号为:" + meterNo+",充值金额为:" + moneyAmount);
+		return false;
+	}
+
 }

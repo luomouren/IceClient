@@ -1,0 +1,12 @@
+2017-02-15 11:45:51,117 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:46:01,600 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:46:55,265 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:47:48,802 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:49:00,179 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:50:50,462 ERROR com.weisi.Client.frame.init.SwitcherGridClient.connectIceServer(SwitcherGridClient.java:80) - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"

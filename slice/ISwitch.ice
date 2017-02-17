@@ -22,6 +22,14 @@ module switcher
 		 * @return true/false
 		 */
 		bool sendMsg(string msg) throws SwitchException;
+		
+		/**
+		 * 充值成功后调用客户端回写表字
+		 * @param meterNo 表号
+		 * @param moneyAmount 充值金额
+		 * @return true/false
+		 */
+		bool callWriteBaseMeter(string meterNo,string moneyAmount) throws SwitchException;
 	};
 	
 	/**
@@ -42,6 +50,14 @@ module switcher
 		 * @param msg 字符串
 		 */
 		bool sendMsgToOtherClient(string otherSn, string msg) throws SwitchException;
+		
+		/**
+		 * 微信公众号充值成功，向sn客户端--调用写表字
+		 * @param sn 设备串号
+		 * @param meterNo 表号
+		 * @param moneyAmount 充值金额
+		 */
+		bool callWriteBaseMeter(string sn,string meterNo,string moneyAmount) throws SwitchException;
 		
 		/**
 		 * 设备回调

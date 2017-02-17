@@ -6,6 +6,7 @@ import com.weisi.Client.service.ice.impl.SwitchCallbackI;
 import com.weisi.Server.switcher.Callback_ISwitch_heartbeat;
 import com.weisi.Server.switcher.ISwitchPrx;
 import com.weisi.Server.switcher.ISwitchPrxHelper;
+import com.weisi.Server.switcher.SwitchException;
 
 import Ice.LocalException;
 import Ice.UserException;
@@ -112,6 +113,9 @@ public class SwitcherGridClient {
       
       try {
         while (true) {
+            //调用充值服务,写C++
+            switchPushPrx.callWriteBaseMeter("0481deb6494848488048578316516694", "gy001", "200.00");
+          
             LOGGER.info("客户端开启心跳---SwitchClient is begin heartbeat.");
             
             switchPushPrx.ice_isBatchDatagram();

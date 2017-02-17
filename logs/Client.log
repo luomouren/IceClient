@@ -34,3 +34,1589 @@
 2017-02-15 10:58:28,605 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
 2017-02-15 10:58:28,609 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
 2017-02-15 10:58:28,609 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:58:38,601 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:58:38,605 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:58:38,612 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:58:38,619 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:58:38,620 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:58:48,609 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:58:48,611 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:58:48,616 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:58:48,620 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:58:48,621 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:58:58,613 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:58:58,614 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:58:58,622 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:58:58,629 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:58:58,629 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:08,616 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:08,616 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:08,619 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:08,621 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:08,621 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:18,617 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:18,619 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:18,621 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:18,623 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:18,623 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:28,620 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:28,621 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:28,623 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:28,625 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:28,625 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:38,622 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:38,624 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:38,630 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:38,639 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:38,639 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:48,624 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:48,625 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:48,628 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:48,632 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:48,632 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 10:59:58,626 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 10:59:58,627 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 10:59:58,630 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 10:59:58,634 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 10:59:58,634 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:08,627 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:08,627 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:08,629 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:08,631 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:08,631 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:18,627 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:18,627 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:18,631 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:18,636 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:18,636 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:28,629 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:28,630 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:28,637 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:28,644 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:28,644 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:38,631 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:38,636 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:38,641 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:38,647 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:38,647 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:48,637 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:48,639 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:48,645 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:48,650 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:48,650 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:00:58,640 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:00:58,641 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:00:58,645 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:00:58,650 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:00:58,650 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:08,642 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:08,642 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:08,644 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:08,646 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:08,646 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:18,643 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:18,648 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:18,655 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:18,659 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:18,660 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:28,652 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:28,652 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:28,654 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:28,656 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:28,656 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:38,652 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:38,654 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:38,658 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:38,662 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:38,662 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:48,655 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:48,656 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:48,658 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:48,661 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:48,661 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:01:58,656 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:01:58,657 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:01:58,661 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:01:58,664 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:01:58,664 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:08,658 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:08,659 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:08,663 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:08,667 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:08,668 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:18,660 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:18,661 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:18,662 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:18,665 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:18,666 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:28,662 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:28,663 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:28,668 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:28,673 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:28,673 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:38,664 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:38,668 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:38,672 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:38,679 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:38,680 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:48,668 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:48,669 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:48,674 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:48,678 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:48,679 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:02:58,669 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:02:58,671 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:02:58,676 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:02:58,685 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:02:58,685 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:08,672 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:08,673 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:08,679 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:08,683 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:08,684 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:18,674 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:18,676 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:18,677 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:18,682 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:18,682 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:28,677 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:28,678 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:28,683 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:28,691 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:28,691 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:38,678 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:38,679 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:38,681 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:38,683 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:38,684 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:48,679 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:48,682 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:48,686 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:48,692 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:48,692 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:03:58,683 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:03:58,686 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:03:58,690 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:03:58,700 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:03:58,700 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:08,688 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:08,688 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:08,694 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:08,697 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:08,698 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:18,689 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:18,690 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:18,696 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:18,707 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:18,707 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:28,690 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:28,691 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:28,696 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:28,701 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:28,701 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:38,692 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:38,696 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:38,698 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:38,702 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:38,702 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:48,697 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:48,701 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:48,702 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:48,707 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:48,707 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:04:58,701 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:04:58,703 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:04:58,708 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:04:58,713 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:04:58,713 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:08,704 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:08,705 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:08,709 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:08,712 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:08,712 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:18,705 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:18,706 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:18,711 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:18,717 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:18,717 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:28,707 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:28,707 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:28,710 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:28,713 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:28,713 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:38,709 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:38,710 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:38,714 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:38,719 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:38,719 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:48,710 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:48,713 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:48,715 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:48,720 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:48,720 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:05:58,713 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:05:58,717 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:05:58,720 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:05:58,725 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:05:58,725 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:08,718 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:08,719 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:08,723 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:08,729 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:08,730 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:18,720 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:18,721 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:18,723 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:18,725 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:18,725 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:28,721 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:28,722 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:28,726 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:28,731 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:28,731 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:38,722 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:38,722 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:38,725 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:38,728 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:38,729 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:48,723 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:48,724 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:48,726 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:48,730 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:48,730 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:06:58,724 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:06:58,724 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:06:58,726 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:06:58,732 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:06:58,732 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:08,725 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:08,726 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:08,730 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:08,734 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:08,734 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:18,726 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:18,726 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:18,730 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:18,733 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:18,733 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:28,728 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:28,729 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:28,730 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:28,732 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:28,732 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:38,730 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:38,731 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:38,733 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:38,735 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:38,735 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:48,731 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:48,731 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:48,734 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:48,735 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:48,735 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:07:58,732 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:07:58,732 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:07:58,734 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:07:58,741 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:07:58,741 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:08,732 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:08,733 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:08,736 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:08,739 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:08,740 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:18,733 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:18,736 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:18,739 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:18,742 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:18,742 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:28,738 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:28,738 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:28,740 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:28,742 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:28,742 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:38,738 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:38,741 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:38,742 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:38,745 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:38,745 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:48,742 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:48,743 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:48,746 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:48,749 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:48,750 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:08:58,743 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:08:58,746 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:08:58,748 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:08:58,751 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:08:58,752 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:08,747 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:08,749 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:08,751 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:08,754 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:08,754 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:18,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:18,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:18,752 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:18,753 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:18,753 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:28,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:28,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:28,752 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:28,754 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:28,754 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:38,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:38,750 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:38,751 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:38,752 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:38,752 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:48,751 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:48,752 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:48,755 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:48,758 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:48,758 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:09:58,753 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:09:58,755 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:09:58,757 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:09:58,761 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:09:58,762 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:08,755 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:08,755 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:08,757 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:08,758 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:08,758 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:18,755 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:18,756 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:18,760 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:18,764 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:18,764 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:28,757 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:28,758 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:28,761 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:28,764 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:28,764 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:38,759 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:38,760 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:38,763 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:38,766 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:38,766 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:48,762 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:48,762 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:48,764 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:48,767 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:48,768 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:10:58,763 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:10:58,763 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:10:58,765 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:10:58,766 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:10:58,766 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:08,763 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:08,764 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:08,767 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:08,771 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:08,771 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:18,766 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:18,767 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:18,769 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:18,773 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:18,773 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:28,768 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:28,768 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:28,769 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:28,771 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:28,771 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:38,769 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:38,770 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:38,772 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:38,777 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:38,777 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:48,770 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:48,771 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:48,773 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:48,775 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:48,775 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:11:58,772 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:11:58,773 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:11:58,775 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:11:58,778 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:11:58,778 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:08,773 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:08,773 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:08,775 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:08,777 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:08,777 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:18,774 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:18,777 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:18,779 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:18,782 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:18,782 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:28,779 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:28,781 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:28,785 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:28,788 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:28,788 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:38,782 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:38,782 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:38,785 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:38,787 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:38,787 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:48,782 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:48,782 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:48,784 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:48,785 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:48,786 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:12:58,783 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:12:58,784 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:12:58,787 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:12:58,791 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:12:58,792 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:08,785 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:08,785 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:08,788 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:08,790 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:08,790 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:18,785 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:18,785 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:18,786 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:18,788 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:18,788 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:28,785 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:28,786 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:28,789 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:28,792 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:28,793 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:38,786 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:38,786 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:38,787 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:38,789 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:38,789 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:48,787 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:48,788 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:48,790 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:48,794 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:48,794 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:13:58,788 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:13:58,789 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:13:58,791 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:13:58,793 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:13:58,793 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:08,790 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:08,793 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:08,794 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:08,799 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:08,799 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:18,793 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:18,794 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:18,797 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:18,800 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:18,800 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:28,796 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:28,797 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:28,801 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:28,806 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:28,806 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:38,798 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:38,800 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:38,802 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:38,806 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:38,806 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:48,800 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:48,800 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:48,802 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:48,804 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:48,804 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:14:58,800 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:14:58,800 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:14:58,801 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:14:58,803 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:14:58,803 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:08,801 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:08,802 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:08,806 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:08,808 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:08,808 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:18,802 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:18,802 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:18,803 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:18,804 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:18,804 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:28,802 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:28,803 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:28,804 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:28,805 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:28,805 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:38,803 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:38,804 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:38,808 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:38,811 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:38,811 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:48,808 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:48,808 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:48,810 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:48,811 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:48,811 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:15:58,808 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:15:58,810 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:15:58,813 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:15:58,818 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:15:58,818 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:08,811 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:08,811 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:08,813 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:08,814 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:08,815 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:18,812 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:18,812 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:18,814 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:18,815 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:18,815 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:28,812 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:28,814 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:28,815 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:28,816 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:28,816 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:38,815 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:38,816 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:38,818 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:38,822 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:38,822 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:48,816 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:48,818 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:48,819 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:48,821 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:48,821 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:16:58,819 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:16:58,820 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:16:58,821 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:16:58,822 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:16:58,822 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:08,820 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:08,820 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:08,822 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:08,823 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:08,824 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:18,820 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:18,821 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:18,823 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:18,825 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:18,825 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:28,823 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:28,823 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:28,824 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:28,827 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:28,827 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:38,823 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:38,824 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:38,825 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:38,826 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:38,827 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:48,824 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:48,824 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:48,826 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:48,827 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:48,827 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:17:58,825 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:17:58,825 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:17:58,827 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:17:58,828 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:17:58,830 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:08,826 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:08,827 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:08,828 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:08,829 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:08,829 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:18,827 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:18,829 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:18,833 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:18,837 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:18,838 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:28,830 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:28,830 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:28,832 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:28,834 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:28,834 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:38,832 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:38,833 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:38,835 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:38,838 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:38,838 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:48,839 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:48,839 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:48,841 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:48,842 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:48,842 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:18:58,839 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:18:58,840 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:18:58,841 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:18:58,842 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:18:58,842 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:08,840 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:08,841 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:08,843 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:08,844 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:08,844 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:18,843 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:18,845 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:18,846 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:18,847 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:18,847 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:28,847 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:28,847 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:28,848 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:28,849 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:28,849 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:38,848 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:38,848 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:38,850 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:38,851 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:38,852 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:48,849 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:48,856 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:48,856 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:48,857 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:48,857 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:19:58,857 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:19:58,863 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:19:58,863 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:19:58,864 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:19:58,864 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:08,864 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:08,874 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:08,875 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:08,876 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:08,876 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:18,875 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:18,877 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:18,878 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:18,879 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:18,879 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:28,877 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:28,877 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:28,879 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:28,880 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:28,880 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:38,877 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:38,878 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:38,881 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:38,883 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:38,883 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:48,879 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:48,879 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:48,881 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:48,883 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:48,883 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:20:58,879 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:20:58,879 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:20:58,882 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:20:58,884 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:20:58,884 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:08,879 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:08,881 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:08,886 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:08,890 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:08,890 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:18,882 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:18,885 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:18,885 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:18,886 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:18,887 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:28,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:28,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:28,887 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:28,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:28,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:38,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:38,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:38,887 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:38,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:38,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:48,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:48,886 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:48,887 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:48,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:48,888 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:21:58,887 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:21:58,888 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:21:58,891 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:21:58,893 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:21:58,893 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:08,889 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:08,889 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:08,891 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:08,892 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:08,892 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:18,890 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:18,891 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:18,893 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:18,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:18,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:28,891 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:28,891 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:28,893 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:28,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:28,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:38,892 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:38,892 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:38,893 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:38,894 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:38,894 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:48,893 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:48,893 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:48,894 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:48,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:48,895 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:22:58,893 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:22:58,894 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:22:58,897 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:22:58,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:22:58,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:08,894 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:08,895 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:08,898 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:08,901 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:08,902 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:18,896 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:18,897 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:18,900 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:18,905 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:18,905 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:28,897 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:28,897 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:28,898 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:28,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:28,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:38,897 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:38,897 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:38,898 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:38,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:38,900 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:48,899 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:48,900 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:48,901 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:48,902 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:48,902 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:23:58,901 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:23:58,902 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:23:58,906 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:23:58,909 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:23:58,909 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:08,903 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:08,904 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:08,907 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:08,910 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:08,910 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:18,906 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:18,907 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:18,909 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:18,911 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:18,912 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:28,908 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:28,908 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:28,911 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:28,913 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:28,914 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:38,909 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:38,910 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:38,912 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:38,915 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:38,916 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:48,910 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:48,911 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:48,914 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:48,917 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:48,917 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:24:58,912 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:24:58,912 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:24:58,913 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:24:58,915 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:24:58,915 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:08,913 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:08,914 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:08,918 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:08,921 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:08,921 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:18,914 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:18,914 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:18,916 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:18,917 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:18,917 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:28,915 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:28,916 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:28,919 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:28,922 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:28,922 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:38,917 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:38,918 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:38,921 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:38,924 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:38,924 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:48,924 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:48,926 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:48,928 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:48,930 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:48,930 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:25:58,927 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:25:58,928 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:25:58,929 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:25:58,930 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:25:58,931 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:08,928 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:08,928 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:08,930 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:08,931 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:08,931 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:18,929 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:18,932 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:18,934 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:18,937 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:18,937 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:28,934 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:28,935 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:28,938 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:28,941 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:28,941 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:38,936 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:38,937 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:38,939 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:38,941 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:38,941 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:48,937 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:48,937 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:48,938 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:48,939 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:48,939 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:26:58,937 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:26:58,939 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:26:58,942 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:26:58,944 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:26:58,945 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:08,939 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:08,939 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:08,942 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:08,943 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:08,943 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:18,942 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:18,943 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:18,946 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:18,949 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:18,949 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:28,945 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:28,948 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:28,951 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:28,954 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:28,954 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:38,949 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:38,949 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:38,951 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:38,952 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:38,952 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:48,949 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:48,950 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:48,952 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:48,953 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:48,953 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:27:58,951 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:27:58,951 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:27:58,953 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:27:58,956 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:27:58,956 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:08,951 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:08,953 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:08,955 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:08,959 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:08,959 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:18,953 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:18,957 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:18,957 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:18,963 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:18,963 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:28,957 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:28,958 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:28,959 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:28,963 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:28,963 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:38,959 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:38,959 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:38,960 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:38,961 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:38,961 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:48,959 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:48,960 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:48,963 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:48,968 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:48,968 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:28:58,966 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:28:58,967 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:28:58,970 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:28:58,974 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:28:58,974 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:08,968 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:08,968 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:08,970 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:08,971 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:08,971 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:18,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:18,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:18,971 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:18,972 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:18,972 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:28,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:28,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:28,970 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:28,971 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:28,971 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:38,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:38,969 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:38,971 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:38,972 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:38,972 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:48,970 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:48,971 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:48,973 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:48,975 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:48,975 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:29:58,971 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:29:58,971 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:29:58,972 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:29:58,973 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:29:58,973 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:08,972 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:08,973 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:08,975 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:08,978 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:08,978 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:18,973 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:18,973 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:18,974 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:18,975 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:18,975 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:28,974 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:28,975 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:28,978 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:28,980 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:28,981 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:38,975 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:38,975 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:38,977 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:38,979 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:38,979 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:48,976 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:48,977 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:48,981 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:48,984 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:48,984 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:30:58,981 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:30:58,982 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:30:58,985 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:30:58,988 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:30:58,988 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:08,983 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:08,983 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:08,985 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:08,987 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:08,987 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:18,983 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:18,984 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:18,986 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:18,989 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:18,989 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:28,985 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:28,986 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:28,989 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:28,992 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:28,992 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:38,986 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:38,986 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:38,988 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:38,990 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:38,990 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:48,987 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:48,987 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:48,989 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:48,991 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:48,991 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:31:58,987 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:31:58,988 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:31:58,991 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:31:58,993 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:31:58,994 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:08,989 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:08,989 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:08,989 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:08,990 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:08,990 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:18,990 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:18,992 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:18,993 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:18,994 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:18,994 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:28,993 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:28,996 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:28,997 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:29,000 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:29,000 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:38,996 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:38,998 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:39,001 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:39,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:39,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:48,999 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:49,000 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:49,005 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:49,010 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:49,011 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:32:59,001 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:32:59,001 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:32:59,002 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:32:59,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:32:59,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:09,001 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:09,001 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:09,002 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:09,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:09,003 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:19,002 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:19,002 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:19,003 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:19,006 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:19,006 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:29,002 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:29,003 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:29,005 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:29,007 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:29,007 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:39,004 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:39,005 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:39,007 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:39,009 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:39,009 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:49,006 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:49,010 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:49,010 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:49,012 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:49,012 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:33:59,011 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:33:59,016 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:33:59,016 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:33:59,018 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:33:59,018 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:09,017 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:09,017 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:09,018 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:09,019 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:09,019 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:19,017 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:19,017 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:19,019 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:19,021 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:19,021 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:29,018 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:29,019 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:29,021 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:29,025 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:29,025 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:39,019 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:39,020 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:39,023 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:39,026 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:39,026 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:49,021 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:49,022 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:49,024 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:49,028 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:49,028 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:34:59,022 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:34:59,022 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:34:59,023 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:34:59,025 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:34:59,025 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:09,023 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:09,024 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:09,025 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:09,026 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:09,026 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:19,025 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:19,026 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:19,026 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:19,027 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:19,027 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:29,026 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:29,028 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:29,030 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:29,034 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:29,034 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:39,028 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:39,028 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:39,029 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:39,030 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:39,030 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:49,028 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:49,028 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:49,029 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:49,030 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:49,030 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:35:59,029 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:35:59,029 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:35:59,031 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:35:59,033 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:35:59,033 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:09,031 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:09,032 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:09,034 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:09,036 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:09,036 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:19,032 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:19,032 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:19,034 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:19,036 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:19,036 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:29,078 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:29,084 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:29,085 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:29,085 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:29,086 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:39,086 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:39,086 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:39,087 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:39,088 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:39,088 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:49,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:49,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:49,088 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:49,089 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:49,089 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:36:59,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:36:59,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:36:59,088 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:36:59,089 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:36:59,090 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:09,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:09,087 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:09,088 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:09,089 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:09,089 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:19,088 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:19,089 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:19,090 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:19,091 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:19,091 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:29,089 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:29,090 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:29,091 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:29,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:29,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:39,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:39,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:39,092 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:39,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:39,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:49,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:49,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:49,092 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:49,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:49,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:37:59,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:37:59,091 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:37:59,092 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:37:59,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:37:59,093 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:09,092 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:09,099 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:09,106 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:09,106 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:09,106 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:19,106 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:19,106 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:19,110 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:19,111 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:19,111 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:29,107 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:29,107 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:29,108 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:29,109 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:29,109 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:39,107 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:39,107 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:39,108 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:39,110 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:39,110 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:49,108 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:49,117 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:49,118 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:49,122 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:49,122 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:38:59,120 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:38:59,120 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:38:59,121 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:38:59,122 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:38:59,122 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:09,120 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:09,121 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:09,121 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:09,127 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:09,127 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:19,122 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:19,122 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:19,124 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:19,125 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:19,125 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:29,122 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:29,123 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:29,128 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:29,131 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:29,131 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:39,125 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:39,126 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:39,129 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:39,133 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:39,133 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:49,131 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:49,131 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:49,134 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:49,136 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:49,136 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:39:59,132 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:39:59,134 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:39:59,134 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:39:59,136 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:39:59,136 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:40:09,135 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:40:09,136 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:40:09,138 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:40:09,140 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:40:09,140 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:40:19,137 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:40:19,137 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:40:19,138 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:40:19,139 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:40:19,139 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:40:29,137 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:40:29,137 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:40:29,138 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:40:29,157 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:40:29,157 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:40:39,138 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:40:39,140 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:40:39,142 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:40:39,148 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:40:39,148 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:45:51,117 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:46:01,600 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:46:55,265 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:47:48,802 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:49:00,179 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:50:50,462 ERROR com.weisi.Client.frame.init.SwitchClient - 连接服务器 Exception,endpoints:--Ice.Default.Locator=IceGrid/Locator:ssl -h 192.168.5.1 -p 4062  ,客户端名称:SwitchClient  ,设备串号:0481deb6494848488048578316516694  ,详细错误为:Ice.NoEndpointException
+    proxy = "SwitchService -t -e 1.1"
+2017-02-15 11:55:47,779 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端启动成功getEndpoint = ssl -h 192.168.5.1 -p 10595 -t 10000
+2017-02-15 11:55:47,780 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:55:47,782 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:55:47,797 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:55:47,799 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 11:55:57,783 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 11:55:57,786 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 11:55:57,796 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 11:55:57,807 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 11:55:57,807 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:00:28,954 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端启动成功getEndpoint = ssl -h 192.168.5.1 -p 10595 -t 10000
+2017-02-15 12:00:28,958 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:00:28,958 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:00:28,968 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:00:28,970 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:00:38,959 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:00:38,960 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:00:38,965 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 12:00:38,969 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:00:38,969 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:00:48,962 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:00:48,963 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:00:48,967 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 12:00:48,971 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:00:48,972 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:03:23,633 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端启动成功getEndpoint = ssl -h 192.168.5.1 -p 10598 -t 10000
+2017-02-15 12:03:23,702 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:03:23,703 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:03:23,953 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:03:23,954 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:05:12,565 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端启动成功getEndpoint = ssl -h 192.168.5.1 -p 10598 -t 10000
+2017-02-15 12:05:12,569 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:05:12,572 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:05:12,581 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:05:12,582 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:05:22,577 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 微信公众号充值成功,表号为:gy001,充值金额为:200.00
+2017-02-15 12:05:22,582 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:05:22,583 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:05:22,589 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 12:05:22,593 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:05:22,594 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
+2017-02-15 12:05:32,587 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 微信公众号充值成功,表号为:gy001,充值金额为:200.00
+2017-02-15 12:05:32,590 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端开启心跳---SwitchClient is begin heartbeat.
+2017-02-15 12:05:32,591 INFO  com.weisi.Client.frame.init.SwitchClient - 客户端心跳结束---SwitchClient is end heartbeat.
+
+2017-02-15 12:05:32,595 INFO  com.weisi.Client.service.ice.impl.SwitchCallbackI - 服务端回调客户端--发送String消息--sendMsg() msg = 客户端注册结束后  回调客户端 test msg.
+2017-02-15 12:05:32,598 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳结果---heartbeat result = true
+2017-02-15 12:05:32,598 INFO  com.weisi.Client.frame.init.SwitchClient - 心跳成功
