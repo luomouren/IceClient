@@ -171,8 +171,16 @@ public class Client1 extends Glacier2.Application
                         context.put("_ovrd", override);
                     }
                     twoway.setCallback(twowayR);
-                    boolean result = twoway.rechargeServer("No商户1", "100.00", "166.66");
-                    System.out.println("充电结果="+result);
+                    
+                    //充点前判断是否【写表客户端】是否在线
+                    if(twoway.isRechargeClientOnline()){
+                    	boolean result = twoway.rechargeServer("No商户1", "100.00", "166.66");
+                        System.out.println("充电结果="+result);
+                    }else{
+                    	System.out.println("【写表客户端】不在线不能进行充值！请稍后再试");
+                    }
+                    
+                    
                     //twoway.initiateCallback(twowayR, context);
                 }
                 else if(line.equals("o"))
