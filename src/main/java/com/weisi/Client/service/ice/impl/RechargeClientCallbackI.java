@@ -15,15 +15,13 @@ public class RechargeClientCallbackI extends _RechargeCallbackDisp {
 
     @Override
     public void message(String data, Current __current) {
-      System.out.println("message方法,data="+data);
-      LOGGER.info("message方法,data="+data);
+      LOGGER.info("message,data="+data);
     }
   
     @Override
     public boolean rechargeClient(String meterNo, String chargeMoney, String chargeValue,
         Current __current) {
-      LOGGER.info("rechargeClient方法,meterNo="+meterNo+",chargeMoney="+chargeMoney+",chargeValue"+chargeValue);
-      System.out.println("rechargeClient方法，meterNo="+meterNo+",chargeMoney="+chargeMoney+",chargeValue"+chargeValue);
+      LOGGER.info("rechargeClient,meterNo="+meterNo+",chargeMoney="+chargeMoney+",chargeValue"+chargeValue);
       return false;
     }
 

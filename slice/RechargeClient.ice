@@ -1,6 +1,6 @@
 // **********************************************************************
 //
-// å……ç”µ
+// ³äµç
 //
 // **********************************************************************
 
@@ -11,17 +11,17 @@
 module RechargeIce
 {
 	/**
-	  * å†™è¡¨å®¢æˆ·ç«¯
+	  * Ğ´±í¿Í»§¶Ë
 	  */
 	interface RechargeCallback
 	{
 		void message(string data);
 		/**
-		 * ã€IceServerã€‘è°ƒç”¨ã€å†™è¡¨å®¢æˆ·ç«¯ã€‘å›å†™è¡¨å­—
-		 * @param meterNo è¡¨å·
-		 * @param moneyAmount å……å€¼é‡‘é¢
-		 * @param chargeValue å……å€¼é‡ï¼Œç”µä¸ºkWh,æ°´ä¸ºå¨ï¼Œç‡ƒæ°”ä¸ºç«‹æ–¹ç±³
-		 * @return true/false å†™è¡¨æˆåŠŸä¸å¦è¿”å›ç»™ã€IceServerã€‘
+		 * ¡¾IceServer¡¿µ÷ÓÃ¡¾Ğ´±í¿Í»§¶Ë¡¿»ØĞ´±í×Ö
+		 * @param meterNo ±íºÅ
+		 * @param moneyAmount ³äÖµ½ğ¶î
+		 * @param chargeValue ³äÖµÁ¿£¬µçÎªkWh,Ë®Îª¶Ö£¬È¼ÆøÎªÁ¢·½Ã×
+		 * @return true/false Ğ´±í³É¹¦Óë·ñ·µ»Ø¸ø¡¾IceServer¡¿
 		 */
 		bool rechargeClient(string meterNo,string chargeMoney, string chargeValue);
 	};

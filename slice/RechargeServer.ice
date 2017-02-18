@@ -1,6 +1,6 @@
 // **********************************************************************
 //
-// å……ç”µ
+// ³äµç
 //
 // **********************************************************************
 
@@ -17,14 +17,14 @@ module RechargeIce
 	interface RechargeSession extends Glacier2::Session
 	{
 		void setCallback(RechargeCallback* callback);
-		void say(string data);
+		//void say(string data);
 
 		/**
-		 * å¾®ä¿¡å…¬ä¼—å·å……ç”µæˆåŠŸï¼Œè°ƒç”¨ã€IceServerã€‘å†™è¡¨
-		 * @param meterNo è¡¨å·
-		 * @param moneyAmount å……å€¼é‡‘é¢ï¼Œå•ä½ å…ƒ
-		 * @param chargeValue å……å€¼é‡ï¼Œç”µä¸ºkWh,æ°´ä¸ºå¨ï¼Œç‡ƒæ°”ä¸ºç«‹æ–¹ç±³
-		 * @return true/false å†™è¡¨æˆåŠŸä¸å¦è¿”å›ç»™ã€å¾®ä¿¡ã€‘ 
+		 * Î¢ĞÅ¹«ÖÚºÅ³äµç³É¹¦£¬µ÷ÓÃ¡¾IceServer¡¿Ğ´±í
+		 * @param meterNo ±íºÅ
+		 * @param moneyAmount ³äÖµ½ğ¶î£¬µ¥Î» Ôª
+		 * @param chargeValue ³äÖµÁ¿£¬µçÎªkWh,Ë®Îª¶Ö£¬È¼ÆøÎªÁ¢·½Ã×
+		 * @return true/false Ğ´±í³É¹¦Óë·ñ·µ»Ø¸ø¡¾Î¢ĞÅ¡¿ 
 		 */
 		bool rechargeServer(string meterNo,string chargeMoney, string chargeValue);
 

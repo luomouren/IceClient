@@ -36,7 +36,7 @@ public class Client1 extends Glacier2.Application
     {
         System.out.println(
             "usage:\n" +
-            "t: send callback as twoway\n" +
+            "t: 写表\n" +
             "o: send callback as oneway\n" +
             "O: send callback as batch oneway\n" +
             "f: flush all batch requests\n" +
@@ -128,7 +128,7 @@ public class Client1 extends Glacier2.Application
             RechargeCallbackPrx onewayR = RechargeCallbackPrxHelper.uncheckedCast(twowayR.ice_oneway());
 
 
-            Ice.ObjectPrx base = communicator().propertyToProxy("ChatServer.Proxy");
+            Ice.ObjectPrx base = communicator().propertyToProxy("RechargeServer.Proxy");
             
             RechargeSessionPrx twoway = RechargeSessionPrxHelper.uncheckedCast(session());
             //RechargeSessionPrx twoway = RechargeSessionPrxHelper.checkedCast(base);
@@ -171,8 +171,8 @@ public class Client1 extends Glacier2.Application
                         context.put("_ovrd", override);
                     }
                     twoway.setCallback(twowayR);
-                    twoway.say("我是Client1");
-                    twoway.rechargeServer("No1", "100.00", "166.66");
+                    boolean result = twoway.rechargeServer("No商户1", "100.00", "166.66");
+                    System.out.println("充电结果="+result);
                     //twoway.initiateCallback(twowayR, context);
                 }
                 else if(line.equals("o"))
